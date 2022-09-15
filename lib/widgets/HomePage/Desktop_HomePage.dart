@@ -149,7 +149,7 @@ class _DesktopHomepageState extends State<DesktopHomepage> {
         child: Container(
           decoration: BoxDecoration(
               gradient: LinearGradient(
-            colors: [Color(0xffe8e8e8), Color(0x0f448aff)],
+            colors: [Color(0xffe8e8e8), Color(0xc0448aff)],
             begin: Alignment.topLeft,
             end: Alignment.bottomRight,
           )),
